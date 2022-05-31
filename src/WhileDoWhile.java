@@ -1,6 +1,6 @@
 public class WhileDoWhile {
     public static void main(String[] args) {
-
+    // we did some changes
 
         int i = 0;
         do {
